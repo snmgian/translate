@@ -1,0 +1,3 @@
+ruby -I. translate.rb flush
+
+ruby -I. -Itest test/lib/test_translator.rb
